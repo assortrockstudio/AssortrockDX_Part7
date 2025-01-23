@@ -1,0 +1,1 @@
+1. Light2D, RenderComponent 들을 레벨 파일에 저장하기
